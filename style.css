@@ -1,0 +1,11 @@
+html {
+  background: #667476;
+}
+
+canvas {
+  width: 700px;
+  height: 455px;
+  margin: 40px auto 0;
+  border: 1px solid #fbeaea;
+  display: block;
+}
